@@ -1,0 +1,43 @@
+<resources>
+  <string name="app_name">Tic Tac Toe</string>
+  <string name="player_id_dashboard_text">Player\'s Dashboard</string>
+  <string name="txt_win_label">Win</string>
+  <string name="txt_loss_label">Loss</string>
+  <string name="txt_draw_label">Draw</string>
+
+  <string name="login_fragment_label">Login</string>
+  <string name="game_fragment_label">Tic Tac Toe: Game</string>
+  <string name="dashboard_fragment_label">Tic Tac Toe: Dashboard</string>
+
+  <string name="login">Register or Log In</string>
+  <string name="logout">Log Out</string>
+
+  <string name="new_game">New Game</string>
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+
+  <string name="blank"> </string>
+
+  <string name="new_game_dialog_message">Which type of game do you want to create?</string>
+  <string name="forfeit_game_dialog_message">Are you sure you want to forfeit this game?</string>
+  <string name="back_to_dashboard_message">Go Back to DashBoard</string>
+
+  <string name="no_game_type">No type</string>
+  <string name="two_player">Two-Player</string>
+  <string name="one_player">One-Player</string>
+
+  <string name="one_player_game_creation">One Player Game Created</string>
+  <string name="two_player_game_creation">Two Player Game Created</string>
+
+  <string name="draw_title">Draw!</string>
+  <string name="win_title">Congratulations!</string>
+  <string name="loss_title">Sorry!</string>
+
+  <string name="draw_message">So Close!</string>
+  <string name="win_message">Well Done, Bravo!</string>
+  <string name="loss_message">Better Luck next Time</string>
+
+  <string name="yes">Yes</string>
+  <string name="cancel">Cancel</string>
+  <string name="confirm">Confirm</string>
+</resources>
